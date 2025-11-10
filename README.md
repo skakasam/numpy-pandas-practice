@@ -1,2 +1,2 @@
-# numpy-pandas-practice
+# pandas-practice
 Python NumPy and Pandas Practice
